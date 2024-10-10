@@ -1,5 +1,5 @@
 build:
-  version: "card-native"
+  version: "card-native2"
 
 cards:
   message: "Welcome to EazyBank cards related local APIs "
