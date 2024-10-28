@@ -9,3 +9,10 @@ accounts:
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
+spring:
+  application:
+    name: accounts
+  datasource:
+    url: jdbc:mysql://localhost:3307/accounts-ms-db
+    username: root
+    password: root
